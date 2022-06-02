@@ -20,7 +20,7 @@ Using the optimized method to get the gait prediction model for stair climbing.
 
 ### Reference 2:
 
-<img src="C:/Users/xpro/AppData/Roaming/Typora/typora-user-images/image-20220602214603390.png" alt="image-20220602214603390" style="zoom:50%;" />
+<img src="image-20220602214603390.png" alt="image-20220602214603390" style="zoom:50%;" />
 
 <img src="image-20220602214640734.png" alt="image-20220602214640734" style="zoom:50%;" />
 
