@@ -16,6 +16,8 @@ Read the literature and summarize the process of data collection and processing.
 
 Using the optimized method to get the gait prediction model for stair climbing.
 
+The prediction model is required to be concise enough.
+
 ![](README.assets/image-20220602214140343.png)
 
 ### Reference 2:
