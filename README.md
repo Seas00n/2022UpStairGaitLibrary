@@ -6,6 +6,15 @@ Use IMU to collect the joint trajectories, hip and foot trajectories of differen
 
 Preprocessing scripts for angular values using Python.(Gait division, Filter, Leg Length Calculation......)
 
+### Standards:
+
+How to use wit sensor ?
+https://dl.wit-motion.com:2103
+
+IMU: JY61P
+
+
+
 ### Reference 1:
 
 ![image-20220602212551835](README.assets/image-20220602212551835.png)
@@ -27,3 +36,6 @@ The prediction model is required to be concise enough.
 ![image-20220602214640734](README.assets/image-20220602214640734.png)
 
 Pay Attention to Fig1. It shows that the nonlinear virtual constraints of thigh angle and knee-ankle angle can be decomposed into a superposition of linear virtual constraints of thigh angle, angular velocity, position integral.
+
+
+
