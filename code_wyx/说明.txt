@@ -1,0 +1,5 @@
+设置WitSensor.py的串口号并运行，会将角度和角速度写入Log中的imu_data.npy
+此时再运行main_control_phase_variable.py会计算相位和关节角度，并将其存入Log中的plot_buf.npy
+再运行Log中的real_time_plot.py可以实时显示相位，大腿角度等数据波形
+
+data文件夹中有之前写号的matlab下的数据预处理程序
