@@ -9,9 +9,17 @@ Preprocessing scripts for angular values using Python.(Gait division, Filter, Le
 ### Standards:
 
 ----How to use wit sensor ?
-----https://dl.wit-motion.com:2103
+----进入维特智能官网https://www.wit-motion.com/
+
+![image-20220709135349556](README.assets/image-20220709135349556.png)
+
+点击CN进入中文版，在搜索框输入型号，本项目使用的是JY61P
+
+![image-20220709135518992](README.assets/image-20220709135518992.png)
 
 ----IMU: JY61P
+
+
 
 【注意】
 
